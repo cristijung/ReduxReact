@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Estre projeto foi adaptado e baseado da documentação oficial do Redux
+Disponível em: (https://redux.js.org/tutorials/essentials/part-1-overview-concepts) 
+
 ## Available Scripts
 
 In the project directory, you can run:
